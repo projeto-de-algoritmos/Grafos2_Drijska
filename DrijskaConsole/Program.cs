@@ -40,7 +40,9 @@ namespace DrijskaConsole
                 new Adjacencie(44.0,node8),
                 };
             node3.Neighbors = new List<Adjacencie>() {
+                new Adjacencie(2.0,node5),
                 new Adjacencie(19.0,node8),
+                };
                 };
             node5.Neighbors = new List<Adjacencie>() {
                 new Adjacencie(11.0,node4),
