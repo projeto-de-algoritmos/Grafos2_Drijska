@@ -21,8 +21,6 @@ https://drive.google.com/drive/u/1/folders/19U6Jk-j2Tdk2bqfE1PcBTt4nhS-Xk2gz
 **Framework**: AspNet Core<br>
 Para rodar esse projeto baixe a plataforma dotnet em sua maquina, clone-o a partir do githbub , e na pasta API execute o comando dotnet run.
 
-## Uso 
-Utilize de query strings para informar para o sistema os id's das materias que o aluno ja realizou
 
 
 
